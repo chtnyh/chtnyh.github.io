@@ -1,7 +1,13 @@
+html {
+  height: 100vh;
+}
+
 body {
   background-color: black;
   font-family: "Courier New", Courier, monospace;
   color: white;
+  height: 100vh;
+  margin: 0;
 }
 
 a {
@@ -36,6 +42,7 @@ a {
 
 main {
   text-align: center;
+  vertical-align: middle;
 }
 
 #pageTitle {
